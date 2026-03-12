@@ -6,5 +6,4 @@ public class demo2 {
 		System.out.println("Practicing pull operation");
 		System.out.println("commiting conflict from master");
 	}
-
 }
